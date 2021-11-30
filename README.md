@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Oi! Eu sou a Lívia 👩🏻‍💻 
+## Oi! Eu sou a Lívia 👩‍💻 
  <div>
   <a href="https://github.com/livia-siqueira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livia-siqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
