@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ## Oi! Eu sou a Lívia 👩‍💻 
- <div>
-  <img src="[github-header-image](https://user-images.githubusercontent.com/66329978/170146096-81e28eb3-368c-41df-a91e-85904d4d3c3b.png)"/>
-</div>
+  <img align="center" alt="Livia-Js" height="30" width="40" src="[github-header-image](https://user-images.githubusercontent.com/66329978/170146096-81e28eb3-368c-41df-a91e-85904d4d3c3b.png)"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Livia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Livia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
